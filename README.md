@@ -14,7 +14,8 @@ person's own baseline rather than a population average.
 | `band.html` | The Band — the passive companion, and the power budget that determined its shape |
 | `img/` | Product and lifestyle imagery (AI-generated) |
 | `teaser/` | Teaser stills, square and wide |
-| `og.png` | Social preview card, 2400×1260 |
+| `og.png` | Social preview card for the site, 2400×1260 |
+| `og-band.png` | Social preview card for the Band page, 2400×1260 |
 
 Both pages are self-contained static HTML — no build step, no dependencies.
 
